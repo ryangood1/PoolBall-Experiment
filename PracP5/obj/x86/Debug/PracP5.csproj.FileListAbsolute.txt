@@ -1,0 +1,27 @@
+\\nas-libraries\libraries-writable\Labs\Library\COMPX102\PracP5\PracP5\bin\Debug\PracP5.exe
+\\nas-libraries\libraries-writable\Labs\Library\COMPX102\PracP5\PracP5\bin\Debug\PracP5.pdb
+\\nas-libraries\libraries-writable\Labs\Library\COMPX102\PracP5\PracP5\obj\x86\Debug\PracP5.csprojResolveAssemblyReference.cache
+\\nas-libraries\libraries-writable\Labs\Library\COMPX102\PracP5\PracP5\obj\x86\Debug\PracP5.Form1.resources
+\\nas-libraries\libraries-writable\Labs\Library\COMPX102\PracP5\PracP5\obj\x86\Debug\PracP5.Properties.Resources.resources
+\\nas-libraries\libraries-writable\Labs\Library\COMPX102\PracP5\PracP5\obj\x86\Debug\PracP5.csproj.GenerateResource.Cache
+\\nas-libraries\libraries-writable\Labs\Library\COMPX102\PracP5\PracP5\obj\x86\Debug\PracP5.csproj.CoreCompileInputs.cache
+\\nas-libraries\libraries-writable\Labs\Library\COMPX102\PracP5\PracP5\obj\x86\Debug\PracP5.exe
+\\nas-libraries\libraries-writable\Labs\Library\COMPX102\PracP5\PracP5\obj\x86\Debug\PracP5.pdb
+H:\COMPX102\PracP5\PracP5\bin\Debug\PracP5.exe
+H:\COMPX102\PracP5\PracP5\bin\Debug\PracP5.pdb
+H:\COMPX102\PracP5\PracP5\obj\x86\Debug\PracP5.csprojResolveAssemblyReference.cache
+H:\COMPX102\PracP5\PracP5\obj\x86\Debug\PracP5.Form1.resources
+H:\COMPX102\PracP5\PracP5\obj\x86\Debug\PracP5.Properties.Resources.resources
+H:\COMPX102\PracP5\PracP5\obj\x86\Debug\PracP5.csproj.GenerateResource.Cache
+H:\COMPX102\PracP5\PracP5\obj\x86\Debug\PracP5.csproj.CoreCompileInputs.cache
+H:\COMPX102\PracP5\PracP5\obj\x86\Debug\PracP5.exe
+H:\COMPX102\PracP5\PracP5\obj\x86\Debug\PracP5.pdb
+C:\Users\GGPC\Desktop\Uni\Uni Papers\COMPX102 - C#\PracP5\PracP5\bin\Debug\PracP5.exe
+C:\Users\GGPC\Desktop\Uni\Uni Papers\COMPX102 - C#\PracP5\PracP5\bin\Debug\PracP5.pdb
+C:\Users\GGPC\Desktop\Uni\Uni Papers\COMPX102 - C#\PracP5\PracP5\obj\x86\Debug\PracP5.csproj.AssemblyReference.cache
+C:\Users\GGPC\Desktop\Uni\Uni Papers\COMPX102 - C#\PracP5\PracP5\obj\x86\Debug\PracP5.Form1.resources
+C:\Users\GGPC\Desktop\Uni\Uni Papers\COMPX102 - C#\PracP5\PracP5\obj\x86\Debug\PracP5.Properties.Resources.resources
+C:\Users\GGPC\Desktop\Uni\Uni Papers\COMPX102 - C#\PracP5\PracP5\obj\x86\Debug\PracP5.csproj.GenerateResource.cache
+C:\Users\GGPC\Desktop\Uni\Uni Papers\COMPX102 - C#\PracP5\PracP5\obj\x86\Debug\PracP5.csproj.CoreCompileInputs.cache
+C:\Users\GGPC\Desktop\Uni\Uni Papers\COMPX102 - C#\PracP5\PracP5\obj\x86\Debug\PracP5.exe
+C:\Users\GGPC\Desktop\Uni\Uni Papers\COMPX102 - C#\PracP5\PracP5\obj\x86\Debug\PracP5.pdb

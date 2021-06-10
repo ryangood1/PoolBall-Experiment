@@ -1,0 +1,24 @@
+\\oslo.cms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2010\Projects\PracP4\PracP4\bin\Debug\PracP4.exe
+\\oslo.cms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2010\Projects\PracP4\PracP4\bin\Debug\PracP4.pdb
+\\oslo.cms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2010\Projects\PracP4\PracP4\obj\x86\Debug\PracP4.Form1.resources
+\\oslo.cms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2010\Projects\PracP4\PracP4\obj\x86\Debug\PracP4.Properties.Resources.resources
+\\oslo.cms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2010\Projects\PracP4\PracP4\obj\x86\Debug\PracP4.csproj.GenerateResource.Cache
+\\oslo.cms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2010\Projects\PracP4\PracP4\obj\x86\Debug\PracP4.exe
+\\oslo.cms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2010\Projects\PracP4\PracP4\obj\x86\Debug\PracP4.pdb
+\\oslo.cms.waikato.ac.nz\home\telphick\documents\visual studio 2010\Projects\PracP4\PracP4\obj\x86\Debug\PracP4.csprojResolveAssemblyReference.cache
+H:\Visual Studio 2010\Projects\PracP4\PracP4\bin\Debug\PracP4.exe
+H:\Visual Studio 2010\Projects\PracP4\PracP4\bin\Debug\PracP4.pdb
+H:\Visual Studio 2010\Projects\PracP4\PracP4\obj\x86\Debug\PracP4.Form1.resources
+H:\Visual Studio 2010\Projects\PracP4\PracP4\obj\x86\Debug\PracP4.Properties.Resources.resources
+H:\Visual Studio 2010\Projects\PracP4\PracP4\obj\x86\Debug\PracP4.csproj.GenerateResource.Cache
+H:\Visual Studio 2010\Projects\PracP4\PracP4\obj\x86\Debug\PracP4.exe
+H:\Visual Studio 2010\Projects\PracP4\PracP4\obj\x86\Debug\PracP4.pdb
+H:\Visual Studio 2010\Projects\PracP4\PracP4\obj\x86\Debug\PracP4.csprojResolveAssemblyReference.cache
+\\OSLO\libraries-writable\Labs\Library\COMP104\PracP4\PracP4\obj\x86\Debug\PracP4.exe
+\\OSLO\libraries-writable\Labs\Library\COMP104\PracP4\PracP4\obj\x86\Debug\PracP4.pdb
+\\OSLO\libraries-writable\Labs\Library\COMP104\PracP4\PracP4\bin\Debug\PracP4.exe
+\\OSLO\libraries-writable\Labs\Library\COMP104\PracP4\PracP4\bin\Debug\PracP4.pdb
+\\OSLO\libraries-writable\Labs\Library\COMP104\PracP4\PracP4\obj\x86\Debug\PracP4.csprojResolveAssemblyReference.cache
+\\OSLO\libraries-writable\Labs\Library\COMP104\PracP4\PracP4\obj\x86\Debug\PracP4.Form1.resources
+\\OSLO\libraries-writable\Labs\Library\COMP104\PracP4\PracP4\obj\x86\Debug\PracP4.Properties.Resources.resources
+\\OSLO\libraries-writable\Labs\Library\COMP104\PracP4\PracP4\obj\x86\Debug\PracP4.csproj.GenerateResource.Cache
